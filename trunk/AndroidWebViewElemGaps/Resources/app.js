@@ -11,6 +11,7 @@ function getStringContents(path){
 }
 
 var win = Ti.UI.createWindow({
+	exitOnClose : true,
 	navBarHidden : true,
 	backgroundColor : 'blue',
 	top : 0,
