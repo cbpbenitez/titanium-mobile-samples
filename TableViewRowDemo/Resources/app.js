@@ -68,6 +68,19 @@ btnShowTableView.addEventListener('click', function(e){
 		alert('You have selected the row with index ' + e.index);
 	});
 	
+	win2.add(Ti.UI.createLabel({
+		textAlign : 'center',
+		text : 'TABLE VIEW',
+		height : '45dp',
+		top : '10dp',
+		left : '80dp',
+		right : '10dp',
+		color : '#ffffff',
+		font : {
+			fontSize : '24dp'
+		}
+	}));
+	
 	var btnClose = Ti.UI.createButton({
 		title : 'Close',
 		width : '70dp',
@@ -154,6 +167,19 @@ btnShowAlternative.addEventListener('click', function(e){
 		html : htmlData
 	});
 	win2.add(webView);
+	
+	win2.add(Ti.UI.createLabel({
+		textAlign : 'center',
+		text : 'WEB VIEW',
+		height : '45dp',
+		top : '10dp',
+		left : '80dp',
+		right : '10dp',
+		color : '#ffffff',
+		font : {
+			fontSize : '24dp'
+		}
+	}));
 	
 	var btnClose = Ti.UI.createButton({
 		title : 'Close',
