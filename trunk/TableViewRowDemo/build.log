@@ -5,44 +5,23 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.022886 seconds on emulator to get ready
+[DEBUG] waited 0.017996 seconds on emulator to get ready
 [DEBUG] org.kaithe.titanium.tableviewrowdemo installed? False
 [INFO] Copying CommonJS modules...
 [INFO] Copying project resources..
-[TRACE] COPYING MODIFIED FILE: /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/app.js => /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/bin/assets/Resources/app.js
-[TRACE] Generating Java Classes
+[TRACE] COPYING MODIFIED FILE: /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/list.html => /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/bin/assets/Resources/list.html
+[INFO] Tiapp.xml unchanged, skipping class generation
 [DEBUG] Processing Android resource drawables
-[DEBUG] copying app icon: /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/bin/assets/Resources/appicon.png
-[DEBUG] generating theme.xml
 [DEBUG] found drawable-long-land-hdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-land-hdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-long-land-hdpi/background.png
 [DEBUG] found drawable-long-land-ldpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-land-ldpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-long-land-ldpi/background.png
 [DEBUG] found drawable-long-port-hdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-port-hdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-long-port-hdpi/background.png
 [DEBUG] found drawable-long-port-ldpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-port-ldpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-long-port-ldpi/background.png
 [DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-hdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-land-hdpi/background.png
 [DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-ldpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-land-ldpi/background.png
 [DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-mdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-land-mdpi/background.png
 [DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-hdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-port-hdpi/background.png
 [DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-ldpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-port-ldpi/background.png
 [DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-mdpi/default.png
-[DEBUG] copying /Users/carlo/Desktop/Titanium/TableViewRowDemo/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/res/drawable-notlong-port-mdpi/background.png
-[DEBUG] found splash screen at /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/bin/assets/Resources/default.png
-[TRACE] Writing out AndroidManifest.xml
-[DEBUG] adding /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/R.java to javac build list
-[DEBUG] adding /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoActivity.java to javac build list
-[DEBUG] adding /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoAppInfo.java to javac build list
-[DEBUG] adding /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoApplication.java to javac build list
-[DEBUG] Building Java Sources: "/Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/R.java" "/Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoActivity.java" "/Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoAppInfo.java" "/Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/gen/org/kaithe/titanium/tableviewrowdemo/TableviewrowdemoApplication.java"
-[INFO] Compiling Android Resources... This could take some time
-[DEBUG] Android classes.dex built
 [DEBUG] creating unsigned apk: /Users/carlo/Desktop/Titanium/TableViewRowDemo/build/android/bin/app-unsigned.apk
 [DEBUG] from resource zip => assets/Resources/images/0.jpg
 [DEBUG] from resource zip => assets/Resources/images/1.jpg
@@ -96,6 +75,6 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015174 seconds on emulator to get ready
+[DEBUG] waited 0.015186 seconds on emulator to get ready
 [INFO] Installing application on device
 [INFO] Application installed. Launch from drawer on Home Screen

@@ -10,8 +10,8 @@
 		<table border="0" style="width:100%;">
 			{{#table_rows}}
 			<tr onclick="Ti.App.fireEvent('app:handleRowSelect', { index : '{{row_index}}' })">
-				<td>
-					<img src="{{{image_url}}}" style="width:320px; height:240px; position:relative; left:10px; top:5px;"/>
+				<td style="border-bottom:1px solid #000000; height:250px;">
+					<img src="{{{image_url}}}" style="width:320px; height:240px; position:relative; left:10px;"/>
 				</td>
 			</tr>
 			{{/table_rows}}

@@ -85,7 +85,7 @@ btnShowTableView.addEventListener('click', function(e){
 });
 
 var btnShowAlternative = Ti.UI.createButton({
-	title : 'Show Alternative',
+	title : 'Show WebView',
 	width : '250dp',
 	height : '45dp',
 	top : '65dp',
@@ -146,7 +146,7 @@ btnShowAlternative.addEventListener('click', function(e){
 	var htmlData = Mustache.render(htmlContents, listData);
 	
 	var webView = Ti.UI.createWebView({
-		backgroundColor : '#ffffff',
+		backgroundColor : 'transparent',
 		top : '65dp',
 		left : 0,
 		right : 0,
