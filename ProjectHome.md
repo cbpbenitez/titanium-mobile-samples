@@ -1,0 +1,1 @@
+Serves as repository for test codes that I use for finding and studying bugs/workarounds for titanium mobile sdk.
